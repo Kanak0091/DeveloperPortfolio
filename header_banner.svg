@@ -1,44 +1,16 @@
-<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="50%" stop-color="#1E293B"/>
-      <stop offset="100%" stop-color="#0F172A"/>
-    </linearGradient>
-    <linearGradient id="accentLine" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1E293B"/>
-      <stop offset="30%" stop-color="#38BDF8"/>
-      <stop offset="70%" stop-color="#2DD4BF"/>
-      <stop offset="100%" stop-color="#1E293B"/>
-    </linearGradient>
-  </defs>
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="996" height="216" rx="16" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <rect x="16" y="16" width="968" height="188" rx="12" fill="#1E293B"/>
+  <rect x="2" y="2" width="996" height="5" rx="2" fill="#38BDF8"/>
+  <rect x="500" y="2" width="498" height="5" rx="2" fill="#2DD4BF"/>
 
-  <!-- Main Card -->
-  <rect x="2" y="2" width="996" height="216" rx="16" fill="url(#bgGrad)" stroke="#334155" stroke-width="2"/>
+  <rect x="375" y="32" width="250" height="26" rx="13" fill="#332B1E" stroke="#F2B45A" stroke-width="1"/>
+  <circle cx="394" cy="45" r="4" fill="#F2B45A"/>
+  <text x="506" y="49" fill="#F2B45A" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" letter-spacing="1.2" text-anchor="middle">CS ECOSYSTEM CAPSTONE</text>
 
-  <!-- Subtle Grid Lines -->
-  <path d="M0 55 H1000 M0 110 H1000 M0 165 H1000 M200 0 V220 M400 0 V220 M600 0 V220 M800 0 V220" stroke="#38BDF8" stroke-opacity="0.04" stroke-width="1"/>
+  <text x="500" y="106" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="middle"><DeveloperPortfolio /></text>
 
-  <!-- Top Accent Line -->
-  <rect x="2" y="2" width="996" height="4" rx="2" fill="url(#accentLine)"/>
+  <text x="500" y="142" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">Kanak Sachin Chaudhary  •  BCA (AI & Data Science)  •  K.R. Mangalam University</text>
 
-  <!-- Top Highlight Pill (Amber Accent) -->
-  <rect x="380" y="28" width="240" height="26" rx="13" fill="#F2B45A" fill-opacity="0.14" stroke="#F2B45A" stroke-opacity="0.45" stroke-width="1"/>
-  <circle cx="398" cy="41" r="4" fill="#F2B45A"/>
-  <text x="506" y="45" fill="#F2B45A" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.4" text-anchor="middle">CS ECOSYSTEM CAPSTONE</text>
-
-  <!-- Main Title -->
-  <text x="500" y="106" fill="#F8FAFC" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="800" letter-spacing="-0.5" text-anchor="middle">
-    <tspan fill="#38BDF8"><</tspan>DeveloperPortfolio<tspan fill="#2DD4BF">/></text>
-  </text>
-
-  <!-- Subtitle -->
-  <text x="500" y="142" fill="#CBD5E1" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="500" text-anchor="middle">
-    Kanak Sachin Chaudhary  <tspan fill="#38BDF8">•</tspan>  BCA (AI & Data Science)  <tspan fill="#2DD4BF">•</tspan>  K.R. Mangalam University (2026–2029)
-  </text>
-
-  <!-- Bottom Module Tags -->
-  <text x="500" y="182" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle">
-    <tspan fill="#38BDF8">CO1</tspan> Linux & Binary   <tspan fill="#475569">|</tspan>   <tspan fill="#2DD4BF">CO2</tspan> Bash Automation   <tspan fill="#475569">|</tspan>   <tspan fill="#38BDF8">CO3</tspan> Git & REST APIs   <tspan fill="#475569">|</tspan>   <tspan fill="#2DD4BF">CO4</tspan> Portfolio & Pages
-  </text>
+  <text x="500" y="178" fill="#2DD4BF" font-family="Courier New, monospace" font-size="13" font-weight="bold" text-anchor="middle">CO1 Linux   |   CO2 Bash Automation   |   CO3 Git & REST APIs   |   CO4 Portfolio</text>
 </svg>
