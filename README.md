@@ -1,13 +1,12 @@
 <div align="center">
 
-# DeveloperPortfolio
-**Beginner Developer Ecosystem Portfolio • Computer Science Capstone**
+![DeveloperPortfolio Header](header_banner.svg)
+
+<br/>
 
 [![University](https://img.shields.io/badge/K.R._Mangalam_University-Batch_2026--2029-38BDF8?style=for-the-badge&labelColor=1E293B)](https://github.com/Kanak0091/DeveloperPortfolio)
 [![Live Site](https://img.shields.io/badge/Live_Portfolio-GitHub_Pages-F2B45A?style=for-the-badge&labelColor=1E293B&logo=githubpages&logoColor=white)](https://kanak0091.github.io/DeveloperPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanak_Chaudhary-2DD4BF?style=for-the-badge&labelColor=1E293B&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanak-chaudhary-bbba52430)
-
-*Demonstrating foundational engineering workflows across Linux system administration, Bash shell automation, REST API consumption, and career documentation.*
 
 </div>
 
@@ -45,3 +44,11 @@
 | **Backup Script Execution (`ShellScripts/backup.sh`)** | ![Verified](https://img.shields.io/badge/Verified-Success-2DD4BF?style=flat-square&labelColor=1E293B&logo=gnubash&logoColor=white) | [`Screenshots/backup_demo.png`](Screenshots/backup_demo.png) |
 | **GitHub Developer Profile (`@Kanak0091`)** | ![Verified](https://img.shields.io/badge/GitHub-Profile_Active-2DD4BF?style=flat-square&labelColor=1E293B&logo=github&logoColor=white) | [`Screenshots/github_profile.png`](Screenshots/github_profile.png) • [Open Profile](https://github.com/Kanak0091) |
 | **LinkedIn Professional Profile** | ![Verified](https://img.shields.io/badge/LinkedIn-Profile_Active-2DD4BF?style=flat-square&labelColor=1E293B&logo=linkedin&logoColor=white) | [`Screenshots/linkedin_profile.png`](Screenshots/linkedin_profile.png) • [Open Profile](https://www.linkedin.com/in/kanak-chaudhary-bbba52430) |
+
+<br/>
+
+<div align="center">
+
+![DeveloperPortfolio Footer](footer_banner.svg)
+
+</div>
