@@ -21,7 +21,7 @@
 | **`ShellScripts/`** | **CO2** | `sysinfo.sh` (automated hardware & top-CPU reporter) and `backup.sh` (timestamped `.tar.gz` archive & logging utility). |
 | **`API/`** | **CO3** | `github_profile.json`, `sample_posts.json`, and `api_summary.md` (REST concepts, HTTP status codes, and `jq` filter analysis). |
 | **`Portfolio/`** | **CO4** | `resume.pdf` (one-page technical resume) and `learning_roadmap.md` (multi-semester CS specialization roadmap). |
-| **`Screenshots/`** | **All** | Live terminal and profile verification captures referenced below. |
+| **`Screenshots/`** | **All** | Live terminal and profile verification captures (`backup_demo.png`, `github_profile.png`, `linkedin_profile.png`). |
 | **`index.html`** | **CO4** | Responsive static portfolio webpage deployed via GitHub Pages. |
 
 ---
@@ -38,13 +38,10 @@
 
 ---
 
-## Verification Screenshots
+## Verification Evidence & Live Links
 
-### 1. Automated Backup Script Execution (`ShellScripts/backup.sh`)
-![Backup Script Output](Screenshots/backup_demo.png)
-
-### 2. GitHub Developer Profile
-![GitHub Profile Screenshot](Screenshots/github_profile.png)
-
-### 3. LinkedIn Professional Profile
-![LinkedIn Profile Screenshot](Screenshots/linkedin_profile.png)
+| Artifact | Status | Preview / Direct Link |
+| :--- | :---: | :--- |
+| **Backup Script Execution (`ShellScripts/backup.sh`)** | ![Verified](https://img.shields.io/badge/Verified-Success-10b981?style=flat-square&logo=gnubash&logoColor=white) | [`Screenshots/backup_demo.png`](Screenshots/backup_demo.png) |
+| **GitHub Developer Profile (`@Kanak0091`)** | ![Verified](https://img.shields.io/badge/GitHub-Profile_Active-181717?style=flat-square&logo=github&logoColor=white) | [`Screenshots/github_profile.png`](Screenshots/github_profile.png) • [Open Profile](https://github.com/Kanak0091) |
+| **LinkedIn Professional Profile** | ![Verified](https://img.shields.io/badge/LinkedIn-Profile_Active-0a66c2?style=flat-square&logo=linkedin&logoColor=white) | [`Screenshots/linkedin_profile.png`](Screenshots/linkedin_profile.png) • [Open Profile](https://www.linkedin.com/in/kanak-chaudhary-bbba52430) |
