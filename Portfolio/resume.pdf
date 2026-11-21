@@ -1,61 +1,122 @@
 %PDF-1.4
-1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
-2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
-3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
-4 0 obj << /Length 4929 >> stream
-0 0 0 rg BT /F2 16 Tf 45 758 Td (KANAK SACHIN CHAUDHARY) Tj ET
-0 0 0 rg BT /F1 9 Tf 45 737.2 Td (+91-8826798833 | 2601060001@krmu.edu.in | Gurugram, Haryana) Tj ET
-0 0 0 rg BT /F1 9 Tf 45 723.4000000000001 Td (GitHub: https://github.com/Kanak0091 | LinkedIn: https://www.linkedin.com/in/kanak-chaudhary-bbba52430) Tj ET
-0.12 0.32 0.62 rg BT /F2 11 Tf 45 699.6000000000001 Td (EDUCATION) Tj ET
-0.12 0.32 0.62 rg 45 695.6000000000001 522 1 re f 0 0 0 rg
-0 0 0 rg BT /F1 9.5 Tf 45 681.6000000000001 Td (BCA in Artificial Intelligence & Data Science | K.R. Mangalam University, Gurugram \(Expected: May 2029\)) Tj ET
-0.12 0.32 0.62 rg BT /F2 11 Tf 45 657.3000000000002 Td (TECHNICAL SKILLS) Tj ET
-0.12 0.32 0.62 rg 45 653.3000000000002 522 1 re f 0 0 0 rg
-0 0 0 rg BT /F1 9.5 Tf 45 639.3000000000002 Td (Languages: Python, Bash / Shell Scripting, SQL \(SQLite\), HTML5, CSS3) Tj ET
-0 0 0 rg BT /F1 9.5 Tf 45 625.0000000000002 Td (Tools: Git, GitHub, Linux Terminal, VS Code, Postman, Microsoft Excel) Tj ET
-0 0 0 rg BT /F1 9.5 Tf 45 610.7000000000003 Td (Concepts: File Systems, Process Management, REST APIs, Markdown, Data Analytics, Prompt Engineering) Tj ET
-0.12 0.32 0.62 rg BT /F2 11 Tf 45 586.4000000000003 Td (PROJECTS) Tj ET
-0.12 0.32 0.62 rg 45 582.4000000000003 522 1 re f 0 0 0 rg
-0 0 0 rg BT /F2 10 Tf 45 563.4000000000003 Td (DeveloperPortfolio | Linux, Bash, Git, REST APIs, HTML/CSS [November 2026]) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 548.6000000000004 Td (- Built an end-to-end developer portfolio repository with hardware profiling and binary arithmetic docs.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 534.6000000000004 Td (- Automated system diagnostics and timestamped .tar.gz directory backups using executable Bash scripts.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 520.6000000000004 Td (- Fetched and parsed live REST API JSON payloads via curl/jq and deployed site via GitHub Pages.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 506.60000000000036 Td (GitHub: https://github.com/Kanak0091/DeveloperPortfolio) Tj ET
-0 0 0 rg BT /F2 10 Tf 45 487.60000000000036 Td (CSE103 Lab - GitHub Collaboration & API Interaction | Python, Bash, Git, REST APIs [November 2026]) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 472.80000000000035 Td (- Configured Git version control workflows, repository structure, and structured Markdown documentation.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 458.80000000000035 Td (- Automated Linux shell tasks and interacted with REST APIs using command-line tools and Python.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 444.80000000000035 Td (GitHub: https://github.com/Kanak0091/cse103-lab-LAB3) Tj ET
-0 0 0 rg BT /F2 10 Tf 45 425.80000000000035 Td (Data Science Capstone Project \(Dscapstone\) | Python, SQLite, Data Analytics [November 2026]) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 411.00000000000034 Td (- Analysed structured datasets using Python to uncover patterns and generate actionable insights.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 397.00000000000034 Td (GitHub: https://github.com/Kanak0091/Dscapstone) Tj ET
-0 0 0 rg BT /F2 10 Tf 45 378.00000000000034 Td (Mule Account Detection Engine | Python, Anomaly Detection [November 2026]) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 363.20000000000033 Td (- Designed an anomaly detection module in a team environment to flag suspicious mule accounts.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 349.20000000000033 Td (GitHub: https://github.com/Kanak0091) Tj ET
-0.12 0.32 0.62 rg BT /F2 11 Tf 45 325.20000000000033 Td (CERTIFICATIONS & ACHIEVEMENTS) Tj ET
-0.12 0.32 0.62 rg 45 321.20000000000033 522 1 re f 0 0 0 rg
-0 0 0 rg BT /F1 9.2 Tf 45 307.20000000000033 Td (- Technical Certifications \(Jul-Aug 2026\): Python Fundamentals \(OmkKtF-python-ZP9neU\), Python Logic &) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 293.20000000000033 Td (  Flow \(OmkKtF-python-C8r1xh\), SQLite Fundamentals & Beyond \(BTNRf6-sqlite-oRigJZ, BTNRf6-sqlite-PcA4IJ\),) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 279.20000000000033 Td (  AI Prompts Fundamentals \(BTNRf6-prompts-g0301x\), and Excel Fundamentals \(BTNRf6-excel-RJobxc\).) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 265.20000000000033 Td (- Workshops \(Sep-Oct 2026\): Data Engineering, Analytics & BI; Generative AI & RAG Systems \(KRMU\).) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 251.20000000000033 Td (- Level 1 Programmer Certification in Computational Thinking - StayQrious Neoschool.) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 237.20000000000033 Td (- Dance Teacher Diploma Final & Master of Dance in Bharatanatyam \(First Division Distinction\) - Mumbai.) Tj ET
-0.12 0.32 0.62 rg BT /F2 11 Tf 45 213.20000000000033 Td (EXTRA-CURRICULAR) Tj ET
-0.12 0.32 0.62 rg 45 209.20000000000033 522 1 re f 0 0 0 rg
-0 0 0 rg BT /F1 9.2 Tf 45 195.20000000000033 Td (- Developed data science solutions at Deep Data Science Hackathon 3.0, K.R. Mangalam University \(Oct 2026\).) Tj ET
-0 0 0 rg BT /F1 9.2 Tf 45 181.20000000000033 Td (- Represented Shalom Presidency School in Ncrypt \(Nquest\) technical event at DPS Sushant Lok \(Dec 2022\).) Tj ET
-endstream endobj
-5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
-6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Kanak0091)
+>> /Border [ 0 0 0 ] /Rect [ 38 741.8898 157.5056 752.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/kanak-chaudhary-bbba52430)
+>> /Border [ 0 0 0 ] /Rect [ 178.868 741.8898 387.2804 752.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Kanak0091/DeveloperPortfolio)
+>> /Border [ 0 0 0 ] /Rect [ 77.012 502.5898 272.609 513.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Kanak0091/cse103-lab-LAB3)
+>> /Border [ 0 0 0 ] /Rect [ 77.012 440.6898 267.614 451.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Kanak0091/Dscapstone)
+>> /Border [ 0 0 0 ] /Rect [ 77.012 392.5898 246.104 403.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Kanak0091)
+>> /Border [ 0 0 0 ] /Rect [ 77.012 344.4898 196.082 355.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author (Kanak Sachin Chaudhary) /CreationDate (D:20261121185410+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261121185410+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Kanak Sachin Chaudhary - Resume) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 1 /Kids [ 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 5717
+>>
+stream
+Gb!;g?$Fc=Q@7)_W2I8c:/\%)<BW!F6>-ED9df)Kb[%k0[Z]jo[YuL7R5I3Xp*l7Q'1b-*pFN!7FuQk:<E6ZVfk6q?Y@&7I(?+/73Fbk*m)a=bKOj+9-8a=jI):o`Hgg^=c)!1QEG)]&/E>;o_HXI[g04]inV0\L/BbHZH1#a^.bWq@pNYQNaM"=_(seID:'KRI_VdGDmhm(\pb^_]0&q5S_C+C''e-\:EpIel-@>\=-VQJ_D!O/3\/(*r&YJ5s]W3-Xs(4T=ks*GdU^k<8hoKVY*rT763.-kiO_s4tZ']sK^<,7)*\ieF4I;LV&LeD:6CJ@;::W?p%?i!b)\P"Vb]:]tKPF44%T"1>*4K(i<0*6[Gt0heU]Y9+?.8?+'O(;pTL#1t2!,`)m(&HLg*GAZB*mtcS@oQH6ONsPgaD'kZ35BGS%@kEL'c1I/WEH?<G"pTX)@>pJ[5iH%Dm^M8]%=QL>\25A$h;1O!IPXK+o5>%Hp>EJoUqua@WL&'(,l+MK+c&'6_-CH_dB%A>J.7BYYk_<`g;n7;HeK_5@E@$^5#I-BH+"+\Xa_h[qYJ=Wc"QGDfJ>>rS2RdAPrf,Qs1@>G1#Z)p_6F[0_)L\H%]/>OOB$_(F(J6'mNjP9FTG*f5*^Q5DI0e'mo!bSc6c-$U]ll-8,rK4eL<6dBAG$1/u+c=S]s](91;/5*u&ZBTV.Oa!/d$B],,<9B>eB8@q.,OP<"m^_Kn;bBNL'f,@`O0n(j&.6Z.6mijl<[f-KO`kR:7O^Ghhk;jW@(usf=mu'u'8fJ)iDajHXE1$PE?/c>o3Nh5k./:_P&TlP:4PjkIC@7>!L;EIk9qf,THio3RK;hR1/)`?*0c28E>Eio\eb]%#g__n.C_5b^a&=)p-Kp5c97&5&tY:@!$7!kGqTk>%2D)fGb01HB[Q?fZE+iLTlTo4QeZ`YLb->'hN>@^:^F1J%KT2=NV&[t*UutU?7:KHkW=Z#mLZ/s[rLuI(CFRbGKqSF4\*^EK'..E_r)m)5rK?h0+d,rmW^ZWoKn-)n6JB>Fb\>dXc12V_+P''Eska+E%?']8)hKq.?J<>5!AY%?+;EU/d=rLD[#BiWLuP=@+kaE]Se@;OXk=V9'nYC8O,f"jd)aa0mK!XFVEb/7agDV-SPkjJ51g!Jc&tFX!6_2C$p&V_oj/bPRH\G\K'shbS4+ap(Ua;GVF_>cK/F]A<q:-81I``G8V#a'ff?JSH+4g7qFu6GTG_)F>_\W.<7&7^I`[K@t7)+e_hgN<*[RVSf@/D$*GNCC@DmenoU<>PVGH*W?^qJYS.WV-]ea.GjL];,[M")6:0[n\&iKR2YRo+3YJWC4!C;:REO$"pK8QaO`rt@#ml=?@=YW+LbaQPhY#eS&?Xa*r[6Z\.M>8cGrLALON)9YA27[1>-n9j`1+S>8;kmEIO+>:i/r7?(^e2#LO,lF3m1Jf8)DKu.&<'j@+2*X-2o*5,i/ra69<.a)Nk]5@DDt-&oW+a+`kbr1!*_Q(.O%@Lj*pLK@7g\K8XiSUTjOoO1a5`:e36"E]"`>:b#*1fVQIO%nbe$hpF;!`#PUglrE"WH_F9(,^5X228B[#>\mHgp%LcRM8FD-%+q^O"$G$"#![Z<i&`J@T'g8k)nT,BNP/4t<TJ=dRuUZ)M7M9@U2fOb6IE&i:?O\!9a#\dh@5*1%%`;d^s[*6nZc:ej4>f8;Ne)&8]O#/+5i:VI..frHB.eKG9&Kb8L.fTC@]2:-nRIO4W1NW-TYhCZ!0*]?mnk?pl8Ao]:N/g\_+'ZFmG;Z609GOGnM/f"$@4b#=j>3`<E5C$LX&D"HUe(_,Pr-So/q[:FPI\Nl:hRO9$PljYi*!iAA]sAeb>/^nGe::8`D5%25977c+*p)$NtLDE\rCkbPNbms)mjHDs`O_!QDff0)qUP-J@_pGHVQDRl+uA4N,S#C+;$bm%+?Hp#/;_6n?[P-JAj_V/dZ[sZ6l%(]tADSU[jr89&dWouUoEt<,OMsW"JVd:foB$km[<5?qZBgP>D7;jWJ+<6qm8u9<Y>QpfGlXI(4>$*=HVY6N^(',IZ(PAR2;GaVom5`2WF9_#>[qb#4.C?IhQ;kY'ObMfU@^c\Al\,C37uEkkF"8AC"HVq")OOhZ['Jap;L=GG+_D!$M3ijmJ3m+7Q.g=@_6X.`R?rQ(d+\%27s\Q(Vo)=IgK!J9-IoL1VqT70QQjlZ*JmjMVng)1?.I=M8id?&Z!2omog5@Si!T:KKYpRt4Eddh6AEBOCUo*19u7pYZ[bR&eR0l6'3pu:VPDnhZN/lBq8$$DLXB\!$s=l=*JV/XY$*uU$M\=W+3@Ie<?_tC8A$!;Knd_VS^-o\YdrDl_TNBd!L6%HOUPC"PnkS.@aAeu#)C9rO+E-9'>T`S1O'86!^)Yr\a*FF3X^)8AVDu5;Lp`rdj[Tr:59_jO1^su;d^dh<Au@+RZ7f-NjP:l;P9N@4u:;TfA;1c,O8r\'^/"HWcE.+d;[N:W/D+#2"D5rG`JXT$!4W%nAr3^*!LX;maA3J=ruBE^a&<VcZBF4h]\+/9Fc88f'VBDcr6'G-c6[YNX>2G],_lFd>%+7F'p/jRNsXHXDm14:nTJ8<)2jAqIDX"E3Wi*'CUVVXT^_FAADB88^b]4Y[Zk7CCco.57gDS6Ko0b*dMs6Y<At\,Fg%NW!d],j^Q7;0AYe@^&<VL9CBAYk7lj:q0_ZGoK#u&Pml>`Xaiq(oA3I)JR#%tJ[&2C#TZ!-Gi:q;El1aUPM;\H3JR:VOna;X("b=6539<Sj`G_^/f?u`HqEdH],0H$<lB4E$6/!b>N#%A4aJtH*PGqFUVdngVsNolkj>\mUU0uLbf9Zlj1c6cnHqDh#%\.ZU#!(_+40,eJ56\GXBMjUWi[nS8QF!enY.UJZg+Pq9M5";p8hp8G!;nhj7YTY/6_D-#9D\egW\ie@>t.<rcuK/3."p^Y)6@:B5\U:LN:pEmHm+7FhLscXburJ9N&(%_fDLe7fs'E(cO$A18hZgdTiKrh'CH"gZB*NV4[RuH#\@P"?D\/!6'XG$*0TL/Bbt]goTXR?;B)lFDidMQF"nD'W]tt;/E?b0uIN1CsS2L@;KQNCXp.$?i7dDWqLae_'epRaX`<p"%+R[7d&@?"h"pfe:'SL^TIeHD#ZVT!deS"-e74RS/s>4@C,I$C(Y&`/Y:bE`"+3H`Hlh>iXRRn/d_\6SS\i6qqh4`c/[1mgJ(0rRIBtu"B$24$W@f3qu33m$n3Q6W([)#XG`%*Yb7b(D\#@uj53TR^sC];Hebleo\)2NVk15bc!ag]r.,9GZ1BX"R/;>lG;$dFg3Dl\?5>/0k@usSrg,YbAG;Q7I'L)L/C9%B#fQmt..ETT*cXDGIme$bC@T-$&6Rg8$bq22!2QLP/M;fO@D[SXMFfGb-pZXGb)C%<iOkXNTI;EqdbuuFD*5eGITi&$[[d>Kak\_?8\^\6_=i<UUjg'73SGN9CsUp1HFWU\!dB$6pu:r@E-/tB?QGc/S:=K8$8hFD!kAgI@/=HV4Z&hDepRN_1`Yu?AuH(=BjFu/bqF9N/JZ4jc#%f50D=)JU:Fl3f_IBK(dYd6Q>O%>g1TT`T<NO#nF*A/h`Z^uO'eNHI<KjaY3q9E>+VCn[_Hd,j1:h1j3gaIp/tHDp)1emrJ?NWe\#'"Z[MP.F*:Y]bC0)]DVB@:#$tAp<Sc/k/N`ec.;-cQATCFlrdrZ@f$K4aqi(u2?Hl)cIbV6k]YQp8oqZCB;A=f#]Nek;B1M,p2L9G'bHHiSc*[J+Ka(g$JVDjeRWQ@@'!#>D<K".f@G=^r2dZ3/HhW[B/q'qQIWP5;bG2uF\"tqDmG1,ZP+`s[h6V@$d7F7fMBkI*QZ49rIQ*9PJ_h+TccQd[XBq3n2ta2aXCkQ3A`XfDfr6Eb1n?PkGNlIL:o"4iTEFonMi(L-/,Z_b$EXZHU97+ZefW'17Cf,oAbuP:F[rGq)(k'S`g6u_2[OkUdo*!V'@):L:p;5j\IVcH4\je#bpm_,>N4+S2/?@"@-(jDd+/Hs&"@GpQn:6YN#Z$P0Fmd@Q@4E*B(1o2Ns.:S\Z.;5R*@-DABHNtI(6"TiLY=Ogh5)^ddWj?CbtQ^diP@CrU>c*enmQ'i*BFuA<BTeibALJLX627g1jqPD)#DW(>]fWIe>q8B*H%;ls1<hS+X'ql\7AL5F%FT>?jF(6Zm33<I?K/R%438$%$!ePA>,'gan@`K0RZ>6i/uY0@,,0`Kf1\>tc42Tdn]*]p_+[fD>Q9QHNEZ96A&mKWAClAT,YH4Hug=Ck^Gg)?I7C=/S._=g1Y7[HHMh.Q6ng1[4QQ%CJJh7G"e/8FeZUAXN=hlaC(W^H?f4[3kLe4^*2.h:,d(X1Wf$q(8rF]h6?(q2r`44"2f7_.FVsle/ALW)lDleI/`@'G8jVXGR=4o4Mg][dh"7>^j\UU93[LeK6a-@5KX<X7ZfK$d)W933ffRHI8n\)>dO>DD#Sp8!NbMU=-ELoqVb)59t[WES?mSW[)AcS0:]MR.o=UYP/;e'OsL%kurliF@^8rgiO:-MWoX16LjGq3*$W)#25""!QoB'>3]PuX:,&`18XnLCjhd>.XKA9SJ6+mP`V+38BAWhk\7>2UpnVCSFpRfP2a*sj7[0s4"Q[l>@U%J48fQL!A3lKAeMk+p\:r=`NJ=:gTCF=b*`,9:+/q4rb"m\VVo0;gJ'/A>D"25lbs!c^k3FTZ@C8uoMrGP'#4`p`A&4MC=-!^f+0d!oK/O,BSA4`l2M^sSZGX0r2CZ;q7RP7fcS$3]j>3l7[$EW?F9'%fp6%kj2oALOjp-0C<>gcGkTINccZ.o:?Pc:bZfbO#64"&TCuJMYG^]JSuc=:=j59&J#HE@JijGfpuSTe@a2Je<g0Oi2f)65(L:Q63172.3[O]iA/<!!amYG;aUD54^&r3ub]c;'5<LtG+$W!X?:pbe^N0,/puieiYE)GnnO-4#0=*M?gO1D>5D6b+'C""p%TduEs%KG?Se%<gD8Pf^?Y,5?an;Bs'Jjo7G-A6(O)JEA?ERoGU\.UuMKb,r31o'?5[_piMeNbaJ/Q1PS):knT-#W%`IiZSnVcri]fq6rT@?rm"T.d1]uHD\o]Rq,0OKZ4f7`TtdH@;'NBJk3CD>]NO.MA-cS"TNo6uG+%dLCclK(7X@Xe%<S&n2C^SHXEN]1H4lH[27]??#OAU!h*.T;c17*tF\i1@PR\or&dZG-)jH2!](njsbGjo:7'IT8'$@!MSs]#*U@?IBb<bN6QY0YI/"6h%-\mh5=!o1D)er9s"(c6q!oe*%Y+SW/*S]Z%YdYKgIhh-qrfYu7'p^IA$npcG1%,!6,s7W3G4W4S\`fp<tY/fc.sem1M"]Gt9[M];5[#OK)TDLZ#IWcVFqc/]d+j[89!PP*K#<^.:(cO+El`apm8##ijJjUB\/4fA$tLmHWr,%\aY9@ho(Wh*N5LaU]Up,9W@s,>0GO.KFR#)9;W:kdAYB3!D]MdQ\E4U.[bfCOopH74Ph3468C.2smf\)1`ofD'0(E;9.nm.g);alr*GWh)VVVVOV>T()_C)FXRGpquOl[d3Kd'0H)gSuoWY=&99$/jK4N#CB<ADMh9-:tbU3r<W^/^g89.(g+ZR%*)dhj`4?Z.!Zs'r45..6IoPPVkE2g1m&\R:7b3][nAau3ISXpRhg;#p*Kmc_dsLrDpI&3]"'H_nYEmm;j;;hXN;/lD"%B(LFaY(~>endstream
+endobj
 xref
-0 7
+0 15
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000251 00000 n 
-0000005232 00000 n 
-0000005302 00000 n 
-trailer << /Size 7 /Root 1 0 R >>
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000495 00000 n 
+0000000699 00000 n 
+0000000895 00000 n 
+0000001088 00000 n 
+0000001276 00000 n 
+0000001453 00000 n 
+0000001707 00000 n 
+0000001777 00000 n 
+0000002085 00000 n 
+0000002146 00000 n 
+trailer
+<<
+/ID 
+[<823dfa38de51870db2e69c4853fdb504><823dfa38de51870db2e69c4853fdb504>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 15
+>>
 startxref
-5377
+7955
 %%EOF
