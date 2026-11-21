@@ -1,0 +1,14 @@
+==================================================
+Name: Kanak | Roll No: 123456 | Date: Sat Nov 21 15:23:24 UTC 2026
+==================================================
+CPU Model  : AMD Ryzen 9 8940HX with Radeon Graphics
+CPU Cores  : 32
+Memory     : Total: 7.4Gi | Used: 734Mi
+--------------------------------------------------
+Top 3 Processes by CPU Usage:
+    PID COMMAND         %CPU
+  11798 (udev-worker)    2.1
+  11802 (udev-worker)    1.1
+  11803 (udev-worker)    1.1
+==================================================
+Report generated successfully.
