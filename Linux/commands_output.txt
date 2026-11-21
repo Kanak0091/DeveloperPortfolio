@@ -1,0 +1,63 @@
+=== ls -la ~ ===
+total 292
+drwxr-x--- 12 kanak kanak   4096 Nov 21 15:18 .
+drwxr-xr-x  3 root  root    4096 Oct 21 17:03 ..
+-rw-------  1 kanak kanak  94968 Nov 21 15:18 .bash_history
+-rw-r--r--  1 kanak kanak    220 Oct 21 17:03 .bash_logout
+-rw-r--r--  1 kanak kanak   3771 Oct 21 17:03 .bashrc
+drwxr-x---  8 kanak kanak   4096 Nov 12 14:49 .cache
+drwxr-x---  9 kanak kanak   4096 Nov 12 14:49 .config
+-rw-r--r--  1 kanak kanak    271 Nov 12 14:31 .gitconfig
+drwxr-xr-x  2 kanak kanak   4096 Oct 21 17:05 .landscape
+-rw-------  1 kanak kanak     20 Nov 21 13:52 .lesshst
+drwx------  4 kanak kanak   4096 Nov 12 11:57 .local
+-rw-r--r--  1 kanak kanak      0 Nov 21 12:11 .motd_shown
+-rw-r--r--  1 kanak kanak    807 Oct 21 17:03 .profile
+drwxr-xr-x  3 kanak kanak   4096 Nov 13 14:40 CSELAB3
+drwxr-xr-x  6 kanak kanak   4096 Nov 21 13:03 Developer-portfolio
+drwxr-xr-x  3 kanak kanak   4096 Nov 21 14:18 Kanak0091
+-rw-r--r--  1 kanak kanak      0 Nov  4 14:21 MARKDOWN_GUIDE.md
+drwxr-xr-x  3 kanak kanak   4096 Nov 21 13:20 Yggdrasil-Protfolio
+drwxr-xr-x  2 kanak kanak   4096 Oct 21 17:14 cse103_backups
+drwxr-xr-x  4 kanak kanak   4096 Nov  4 13:49 cse103_lab
+-rw-------  1 kanak kanak    426 Oct 21 18:30 defensive_script.sh.save
+-rw-------  1 kanak kanak    529 Oct 21 18:30 fixed_script.sh.save
+-rwxr-xr-x  1 kanak kanak 120267 Nov 13 14:13 my_resume_v1.pdf
+
+=== ps aux | head -10 ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2  24836 16068 ?        Ss   12:22   0:02 /sbin/init
+root           2  0.0  0.0   3820  2528 hvc0     Sl+  12:22   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   12:22   0:00 init-watcher
+root           7  0.0  0.0   3820  2296 hvc0     Sl+  12:22   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          47  0.0  0.4  82224 33452 ?        S<s  12:22   0:01 /usr/lib/systemd/systemd-journald
+systemd+      69  0.0  0.1  22432 14512 ?        Ss   12:22   0:00 /usr/lib/systemd/systemd-resolved
+root          90  0.1  0.1  36692 13600 ?        Ss   12:22   0:10 /usr/lib/systemd/systemd-udevd
+root         182  0.0  0.1 306396  7856 ?        Ssl  12:22   0:00 /usr/libexec/accounts-daemon
+avahi        183  0.0  0.0   6700  4892 ?        Ss   12:22   0:00 avahi-daemon: running [Scorpion-2.local]
+
+=== df -h ===
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.7G     0  3.7G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.7G  4.0K  3.7G   1% /mnt/wsl
+drivers         925G  183G  742G  20% /usr/lib/wsl/drivers
+/dev/sdd       1007G  3.2G  953G   1% /
+none            3.7G  100K  3.7G   1% /mnt/wslg
+none            3.7G     0  3.7G   0% /usr/lib/wsl/lib
+rootfs          3.7G  3.4M  3.7G   1% /init
+none            3.7G  984K  3.7G   1% /run
+none            3.7G     0  3.7G   0% /run/lock
+none            3.7G     0  3.7G   0% /run/shm
+none            3.7G  104K  3.7G   1% /mnt/wslg/versions.txt
+none            3.7G  104K  3.7G   1% /mnt/wslg/doc
+C:\             925G  183G  742G  20% /mnt/c
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.7G   35M  3.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           754M   32K  754M   1% /run/user/1000
+
+=== free -h ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       730Mi       6.1Gi        38Mi       733Mi       6.6Gi
+Swap:          2.0Gi          0B       2.0Gi
