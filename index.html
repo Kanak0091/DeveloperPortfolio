@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kanak Chaudhary | Developer Portfolio</title>
+  <title>Kanak Sachin Chaudhary | Developer Portfolio</title>
   <style>
     :root {
       --bg: #090d16;
@@ -23,11 +23,11 @@
       padding: 3rem 1.25rem;
       min-height: 100vh;
     }
-    .container { max-width: 860px; margin: 0 auto; }
+    .container { max-width: 940px; margin: 0 auto; }
     header {
       text-align: center;
       padding: 3rem 1.5rem;
-      background: rgba(17, 24, 39, 0.7);
+      background: rgba(17, 24, 39, 0.75);
       border: 1px solid var(--border);
       border-radius: 1rem;
       margin-bottom: 2.5rem;
@@ -38,7 +38,7 @@
       background: rgba(16, 185, 129, 0.12);
       color: var(--secondary);
       border: 1px solid rgba(16, 185, 129, 0.3);
-      padding: 0.25rem 0.85rem;
+      padding: 0.25rem 0.9rem;
       border-radius: 999px;
       font-size: 0.8rem;
       font-weight: 600;
@@ -47,13 +47,16 @@
       margin-bottom: 0.9rem;
     }
     header h1 {
-      font-size: 2.6rem;
+      font-size: 2.55rem;
       font-weight: 800;
       background: linear-gradient(90deg, #f8fafc, var(--primary));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
-    header p { color: var(--muted); font-size: 1.05rem; margin-top: 0.4rem; }
+    header p { color: var(--muted); font-size: 1.02rem; margin-top: 0.45rem; }
+    .contact-strip { color: #cbd5e1; font-size: 0.9rem; margin-top: 0.65rem; }
+    .contact-strip a { color: var(--primary); text-decoration: none; }
+    .header-links { margin-top: 1.4rem; display: flex; justify-content: center; flex-wrap: wrap; gap: 0.75rem; }
     section { margin-bottom: 2.5rem; }
     h2 {
       font-size: 1.25rem;
@@ -72,49 +75,58 @@
       background: linear-gradient(180deg, var(--primary), var(--secondary));
       border-radius: 2px;
     }
-    .about-text {
+    .box {
       background: var(--surface);
       border: 1px solid var(--border);
-      padding: 1.4rem 1.6rem;
+      padding: 1.5rem 1.7rem;
       border-radius: 0.85rem;
       color: #d1d5db;
     }
-    .badges { display: flex; flex-wrap: wrap; gap: 0.65rem; }
+    .edu-grid { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.75rem; }
+    .edu-title { font-size: 1.1rem; font-weight: 700; color: #f9fafb; }
+    .edu-sub { color: var(--primary); font-size: 0.95rem; margin-top: 0.2rem; }
+    .edu-date { color: var(--secondary); font-size: 0.85rem; font-weight: 600; background: rgba(16, 185, 129, 0.1); padding: 0.25rem 0.7rem; border-radius: 0.4rem; }
+    .skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; }
+    .skill-group { background: var(--surface); border: 1px solid var(--border); padding: 1.25rem; border-radius: 0.85rem; }
+    .skill-group h3 { font-size: 0.9rem; color: var(--secondary); margin-bottom: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    .badges { display: flex; flex-wrap: wrap; gap: 0.5rem; }
     .badge {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      padding: 0.45rem 1rem;
-      border-radius: 0.5rem;
-      font-size: 0.9rem;
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.22);
+      padding: 0.35rem 0.75rem;
+      border-radius: 0.45rem;
+      font-size: 0.85rem;
       font-weight: 500;
       color: var(--primary);
-      transition: all 0.2s ease;
     }
-    .badge:hover {
-      border-color: var(--primary);
-      background: var(--surface-hover);
-      transform: translateY(-2px);
-    }
+    .projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.1rem; }
     .card {
       background: var(--surface);
-      padding: 1.75rem;
+      padding: 1.5rem;
       border-radius: 0.85rem;
       border: 1px solid var(--border);
-      transition: border-color 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: border-color 0.2s ease, transform 0.2s ease;
     }
-    .card:hover { border-color: rgba(56, 189, 248, 0.4); }
-    .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem; }
-    .card h3 { font-size: 1.2rem; color: #f9fafb; }
-    .tag { font-size: 0.78rem; color: var(--secondary); background: rgba(16, 185, 129, 0.1); padding: 0.2rem 0.6rem; border-radius: 0.35rem; }
-    .card p { color: var(--muted); margin-bottom: 1.25rem; font-size: 0.96rem; }
+    .card:hover { border-color: rgba(56, 189, 248, 0.45); transform: translateY(-2px); }
+    .card-top { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; margin-bottom: 0.6rem; }
+    .card h3 { font-size: 1.08rem; color: #f9fafb; }
+    .tag { font-size: 0.75rem; color: var(--secondary); background: rgba(16, 185, 129, 0.1); padding: 0.2rem 0.55rem; border-radius: 0.35rem; white-space: nowrap; }
+    .card p { color: var(--muted); margin-bottom: 1.25rem; font-size: 0.92rem; }
+    .list-clean { list-style: none; display: flex; flex-direction: column; gap: 0.85rem; }
+    .list-clean li { padding-left: 1.1rem; position: relative; color: #d1d5db; font-size: 0.94rem; }
+    .list-clean li::before { content: "▹"; position: absolute; left: 0; color: var(--secondary); font-weight: bold; }
+    .list-clean strong { color: #f9fafb; }
     .actions { display: flex; flex-wrap: wrap; gap: 0.85rem; }
     a.btn {
       display: inline-block;
       background: linear-gradient(135deg, var(--primary), #0284c7);
       color: #090d16;
       font-weight: 700;
-      font-size: 0.92rem;
-      padding: 0.6rem 1.25rem;
+      font-size: 0.9rem;
+      padding: 0.55rem 1.15rem;
       border-radius: 0.5rem;
       text-decoration: none;
       transition: opacity 0.2s ease, transform 0.2s ease;
@@ -126,61 +138,173 @@
       border: 1px solid var(--border);
     }
     a.btn-outline:hover { border-color: var(--primary); color: var(--primary); }
-    footer { text-align: center; color: #6b7280; font-size: 0.85rem; margin-top: 3rem; }
+    footer { text-align: center; color: #6b7280; font-size: 0.85rem; margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <span class="pill">CS Undergraduate • Developer Ecosystem</span>
-      <h1>Kanak Chaudhary</h1>
+      <span class="pill">BCA in Artificial Intelligence & Data Science • Gurugram, Haryana</span>
+      <h1>Kanak Sachin Chaudhary</h1>
       <p>K.R. Mangalam University • Batch of 2026–2029</p>
+      <div class="contact-strip">
+        <a href="mailto:2601060001@krmu.edu.in">2601060001@krmu.edu.in</a> • +91-8826798833
+      </div>
+      <div class="header-links">
+        <a class="btn" href="Portfolio/resume.pdf" target="_blank">View Resume (PDF)</a>
+        <a class="btn btn-outline" href="https://github.com/Kanak0091" target="_blank">GitHub (@Kanak0091)</a>
+        <a class="btn btn-outline" href="https://www.linkedin.com/in/kanak-chaudhary-bbba52430" target="_blank">LinkedIn</a>
+      </div>
     </header>
 
     <section>
       <h2>About Me</h2>
-      <p class="about-text">
-        I am a Computer Science student at K.R. Mangalam University passionate about Linux system administration, Bash shell automation, Git workflows, and REST APIs. I focus on building reliable, well-documented software tools from the command line up.
-      </p>
+      <div class="box">
+        <p>
+          I am a first-year <strong>BCA (Artificial Intelligence & Data Science)</strong> undergraduate at K.R. Mangalam University, Gurugram, and a certified Bharatanatyam classical dance teacher. My work focuses on <strong>Python, Linux systems, Bash automation, SQL (SQLite), REST APIs, and Data Analytics</strong>—building clean, reproducible workflows from the command line up.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="box">
+        <div class="edu-grid">
+          <div>
+            <div class="edu-title">BCA in Artificial Intelligence & Data Science</div>
+            <div class="edu-sub">K.R. Mangalam University, Gurugram, Haryana</div>
+          </div>
+          <span class="edu-date">Expected: May 2029</span>
+        </div>
+      </div>
     </section>
 
     <section>
       <h2>Technical Skills</h2>
-      <div class="badges">
-        <span class="badge">Linux & CLI</span>
-        <span class="badge">Bash Shell Scripting</span>
-        <span class="badge">Git & GitHub</span>
-        <span class="badge">REST APIs & jq</span>
-        <span class="badge">Python</span>
-        <span class="badge">HTML5 & CSS3</span>
-        <span class="badge">Markdown Docs</span>
-      </div>
-    </section>
-
-    <section>
-      <h2>Featured Project</h2>
-      <div class="card">
-        <div class="card-header">
-          <h3>DeveloperPortfolio</h3>
-          <span class="tag">Capstone Project</span>
+      <div class="skills-grid">
+        <div class="skill-group">
+          <h3>Languages</h3>
+          <div class="badges">
+            <span class="badge">Python</span>
+            <span class="badge">Bash / Shell Scripting</span>
+            <span class="badge">SQL (SQLite)</span>
+            <span class="badge">HTML5 & CSS3</span>
+          </div>
         </div>
-        <p>
-          An end-to-end developer portfolio repository featuring Linux workstation hardware audits, binary arithmetic documentation, automated Bash system reporting and compressed backup scripts, and REST API JSON extraction via curl and jq.
-        </p>
-        <a class="btn" href="https://github.com/Kanak0091/DeveloperPortfolio" target="_blank">View Source on GitHub →</a>
+        <div class="skill-group">
+          <h3>Developer Tools</h3>
+          <div class="badges">
+            <span class="badge">Git & GitHub</span>
+            <span class="badge">Linux Terminal</span>
+            <span class="badge">VS Code</span>
+            <span class="badge">Postman</span>
+            <span class="badge">Microsoft Excel</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>Core Concepts</h3>
+          <div class="badges">
+            <span class="badge">File Systems</span>
+            <span class="badge">Process Management</span>
+            <span class="badge">REST APIs</span>
+            <span class="badge">Data Analytics</span>
+            <span class="badge">Prompt Engineering</span>
+            <span class="badge">Markdown</span>
+          </div>
+        </div>
       </div>
     </section>
 
     <section>
-      <h2>Connect</h2>
+      <h2>Projects</h2>
+      <div class="projects-grid">
+        <div class="card">
+          <div>
+            <div class="card-top">
+              <h3>DeveloperPortfolio</h3>
+              <span class="tag">Nov 2026</span>
+            </div>
+            <p>
+              Beginner Developer Ecosystem Portfolio featuring Linux hardware documentation, automated Bash system info & compressed backup scripts, REST API JSON extraction, and career documentation.
+            </p>
+          </div>
+          <a class="btn" href="https://github.com/Kanak0091/DeveloperPortfolio" target="_blank">View Repository →</a>
+        </div>
+
+        <div class="card">
+          <div>
+            <div class="card-top">
+              <h3>CSE103 Lab (LAB3)</h3>
+              <span class="tag">Nov 2026</span>
+            </div>
+            <p>
+              Configured Git version control workflows, repository structure, and structured Markdown documentation while automating Linux shell tasks and REST API interactions with Python.
+            </p>
+          </div>
+          <a class="btn btn-outline" href="https://github.com/Kanak0091/cse103-lab-LAB3" target="_blank">View Repository →</a>
+        </div>
+
+        <div class="card">
+          <div>
+            <div class="card-top">
+              <h3>Data Science Capstone</h3>
+              <span class="tag">Nov 2026</span>
+            </div>
+            <p>
+              Analysed structured datasets using Python to uncover patterns and generate actionable insights through reproducible, version-controlled data processing workflows.
+            </p>
+          </div>
+          <a class="btn btn-outline" href="https://github.com/Kanak0091/Dscapstone" target="_blank">View Repository →</a>
+        </div>
+
+        <div class="card">
+          <div>
+            <div class="card-top">
+              <h3>Mule Account Detection Engine</h3>
+              <span class="tag">Nov 2026</span>
+            </div>
+            <p>
+              Collaboratively designed a Python anomaly detection module implementing transaction pattern screening logic to flag suspicious mule accounts in financial fraud workflows.
+            </p>
+          </div>
+          <a class="btn btn-outline" href="https://github.com/Kanak0091" target="_blank">GitHub Profile →</a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Certifications & Workshops</h2>
+      <div class="box">
+        <ul class="list-clean">
+          <li><strong>Technical Certifications (Jul – Aug 2026):</strong> Python Fundamentals, Python Logic & Flow, SQLite Fundamentals & Beyond the Basics, AI Prompts Fundamentals, and Excel Fundamentals.</li>
+          <li><strong>Industry-Led Workshops (Sep – Oct 2026):</strong> Data Engineering, Analytics & Business Intelligence; Generative AI & RAG Systems with Prompt Engineering — K.R. Mangalam University.</li>
+          <li><strong>Computational Thinking:</strong> Level 1 Programmer Certification — StayQrious Neoschool.</li>
+          <li><strong>Performing Arts Distinction (May 2025 – May 2026):</strong> Dance Teacher Diploma Final & Master of Dance in Bharatanatyam (First Division with Distinction in Practical) — Art & Cultural Foundation, Mumbai.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Hackathons & Extra-Curricular</h2>
+      <div class="box">
+        <ul class="list-clean">
+          <li><strong>Deep Data Science Hackathon 3.0 (Oct 2026):</strong> Developed data science solutions during the university hackathon at K.R. Mangalam University.</li>
+          <li><strong>Ncrypt (Nquest) Technical Event (Dec 2022):</strong> Represented Shalom Presidency School at Delhi Public School, Sushant Lok.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
       <div class="actions">
         <a class="btn" href="https://github.com/Kanak0091" target="_blank">GitHub Profile</a>
         <a class="btn btn-outline" href="https://www.linkedin.com/in/kanak-chaudhary-bbba52430" target="_blank">LinkedIn Profile</a>
+        <a class="btn btn-outline" href="mailto:2601060001@krmu.edu.in">Email Me</a>
       </div>
     </section>
 
     <footer>
-      Built & deployed with GitHub Pages • Kanak Chaudhary (2026)
+      Kanak Sachin Chaudhary • Gurugram, Haryana • Deployed via GitHub Pages (2026)
     </footer>
   </div>
 </body>
