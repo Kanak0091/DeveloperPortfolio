@@ -1,6 +1,6 @@
 <div align="center">
 
-![DeveloperPortfolio Header](header_banner.png)
+![DeveloperPortfolio Header](header_banner.svg)
 
 <br/>
 
@@ -49,6 +49,6 @@
 
 <div align="center">
 
-![DeveloperPortfolio Footer](footer_banner.png)
+![DeveloperPortfolio Footer](footer_banner.svg)
 
 </div>

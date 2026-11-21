@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="DeveloperPortfolio header">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="996" height="216" rx="16" fill="#1E293B" stroke="#334155" stroke-width="2"/>
+  <rect x="20" y="2" width="960" height="4" rx="2" fill="url(#bar)"/>
+
+  <rect x="395" y="30" width="210" height="28" rx="14" fill="#362B1E" stroke="#F2B45A" stroke-width="1"/>
+  <text x="500" y="49" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#F2B45A">CS CAPSTONE</text>
+
+  <text x="500" y="108" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#F8FAFC">Developer<tspan fill="#38BDF8">Portfolio</tspan></text>
+
+  <text x="500" y="144" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#CBD5E1">Kanak Sachin Chaudhary  <tspan fill="#38BDF8">•</tspan>  BCA (AI &amp; Data Science)  <tspan fill="#2DD4BF">•</tspan>  K.R. Mangalam University</text>
+
+  <text x="500" y="184" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1" fill="#CBD5E1"><tspan fill="#38BDF8">CO1</tspan> Linux &amp; Binary   <tspan fill="#475569">|</tspan>   <tspan fill="#2DD4BF">CO2</tspan> Bash Automation   <tspan fill="#475569">|</tspan>   <tspan fill="#38BDF8">CO3</tspan> Git &amp; REST APIs   <tspan fill="#475569">|</tspan>   <tspan fill="#2DD4BF">CO4</tspan> Portfolio &amp; Pages</text>
+</svg>
